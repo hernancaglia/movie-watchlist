@@ -15,7 +15,6 @@ Your selection: """
 
 welcome = "Welcome to the watchlist app!"
 
-
 print(welcome)
 database.create_tables()
 
